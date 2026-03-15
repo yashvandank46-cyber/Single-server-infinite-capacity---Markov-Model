@@ -46,9 +46,6 @@ if Lambda < Mu:
 else:
     print("Warning! Objects Over flow will happen in the conveyor")
 ```
-## Experiment:
-
-<img width="623" height="358" alt="image" src="https://github.com/user-attachments/assets/b966c4ad-a869-4e2b-a724-68253fe666b5" />
  
 ## Program
 ![image](https://github.com/ramjan1729/Single-server-infinite-capacity---Markov-Model/assets/103921593/5f1fd58d-5929-4c51-89ea-4cef009e5bad)
